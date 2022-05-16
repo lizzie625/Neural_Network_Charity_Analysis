@@ -15,7 +15,10 @@ What variable(s) are neither targets nor features, and should be removed from th
 ### Compiling, Training, and Evaluating the Model  
 How many neurons, layers, and activation functions did you select for your neural network model, and why?  
 * 6 layers  
+
 Were you able to achieve the target model performance?  
+
 * No. I could not get the model performance over 75%  
+
 What steps did you take to try and increase model performance?  
 * changed the bins and added hidden layers  
