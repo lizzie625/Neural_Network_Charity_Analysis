@@ -7,9 +7,9 @@ With your knowledge of machine learning and neural networks, you’ll use the fe
 
 ### Data Preprocessing  
 What variable(s) are considered the target(s) for your model?  
-* APPLICATION_TYPE—Alphabet Soup application type AFFILIATION—Affiliated sector of industry CLASSIFICATION—Government organization classification USE_CASE—Use case for funding ORGANIZATION—Organization type STATUS—Active status INCOME_AMT—Income classification SPECIAL_CONSIDERATIONS—Special consideration for application ASK_AMT  
+* APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT  
 What variable(s) are considered to be the features for your model?  
-*  
+*  IS_SUCCESSFUL 
 What variable(s) are neither targets nor features, and should be removed from the input data?  
 * EIN and NAME—Identification columns  
 ### Compiling, Training, and Evaluating the Model  
